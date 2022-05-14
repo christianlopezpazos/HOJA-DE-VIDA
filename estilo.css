@@ -1,0 +1,9 @@
+
+.grip{
+    display: grid;
+    grid-template-columns:  50% 50%;
+    margin-left: 5%;
+}
+.primero{
+    margin-left: 2%;
+   
